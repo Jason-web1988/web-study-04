@@ -21,6 +21,6 @@
 	/* request.getRequestDispatcher("secondPage.jsp").forward(request, response); */
 %>
 
-<jsp:forward page = "secondPage.jsp"/>
+<jsp:forward page = "07_secondPage.jsp"/>
 </body>
 </html>
